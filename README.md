@@ -9,7 +9,7 @@ Aplicação console para cálculo do IMC.
 
 ## Tecnologias Utilizadas
 
-- dotnete
+- dotnet
 
 ## Como Executar 
 
